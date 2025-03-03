@@ -28,5 +28,5 @@ The `.golangci.yml` file contains the golangci-lint configuration.
 Running golangci-lint from the root of the repository:
 
 ```bash
-golangci-lint run
+golangci-lint run --timeout 5m
 ```

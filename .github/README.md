@@ -10,7 +10,7 @@ will be available.
 
 **Without installing software**
 
-You can *review without installing any software* using [GitHub Codespaces](https://docs.github.com/en/codespaces). Simply [open the repository in codespace](https://docs.github.com/en/codespaces/developing-in-a-codespace/opening-an-existing-codespace).
+You can *review without installing any software* using [GitHub Codespaces](https://docs.github.com/en/codespaces). Simply [create a codespace for the repo](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository).
 
 
 **Using an IDE**
